@@ -1,0 +1,31 @@
+1. Consultorio Médico
+Descripción: Implementar un sistema de gestión de citas para un consultorio médico, donde se asignan fechas de consulta a los pacientes y se maneja una sala de espera para aquellos que ya tienen una cita previa.
+
+Enfoque:
+
+Clases: Crear clases como Paciente, Consulta, y Consultorio.
+POO Justificación: El uso de POO permite modelar claramente los pacientes y las consultas como objetos con atributos y métodos. Esto facilita la extensión y mantenimiento del código.
+
+2. Sistema de Préstamos de Biblioteca
+Descripción: Desarrollar un sistema de préstamos de libros que registre fechas de retiro y devolución, y aplique sanciones si se excede la fecha límite.
+
+Enfoque:
+
+Clases: Crear clases como Libro, Tarjeta, y Prestamo.
+POO Justificación: POO es útil aquí para encapsular la lógica de los préstamos y devoluciones en objetos dedicados, lo que hace que el código sea más modular y fácil de actualizar.
+
+3. Sistema de Reservación de Hotel
+Descripción: Implementar un sistema para gestionar reservas de habitaciones de hotel, incluyendo la selección de habitaciones y la adición de servicios extra.
+
+Enfoque:
+
+Clases: Crear clases como Cliente, Habitacion, Reserva, y ServicioExtra.
+POO Justificación: Modelar cada componente del sistema (habitaciones, clientes, servicios) como objetos mejora la claridad y la organización del código, especialmente cuando se deben manejar interacciones complejas como la adición de servicios extra.
+
+4. Sistema de Renta de Vehículos
+Descripción: Crear un sistema para la renta de vehículos, incluyendo el registro de nuevos vehículos y la gestión de las rentas.
+
+Enfoque:
+
+Clases: Crear clases como Vehiculo, Cliente, Renta.
+POO Justificación: La POO permite definir fácilmente las características de cada tipo de vehículo y gestionar las rentas de manera modular.
